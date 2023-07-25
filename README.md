@@ -26,26 +26,19 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 
-
-
-https://github.com/Sur-3071/Medical-Help/blob/main/screen1.png
-
+![screen1](https://github.com/Sur-3071/Medical-Help/assets/104709090/62d7ce01-f63b-4520-9d20-3ff0956d9411)
 
    
 
 ### About -
 
-
-https://github.com/Sur-3071/Medical-Help/blob/main/screen3.png
+![screen3](https://github.com/Sur-3071/Medical-Help/assets/104709090/bf10ec2f-d188-47f6-a1d3-3155bf2d4540)
 
 
 
 ### health bot -
 
-
-
-https://github.com/Sur-3071/Medical-Help/blob/main/screen2.png
+![screen2](https://github.com/Sur-3071/Medical-Help/assets/104709090/6e30a554-c8ee-4102-8ed2-e5609f0e277d)
 
 ## Tech Stack 💻
 
