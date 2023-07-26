@@ -5,7 +5,7 @@ This is a web based application developed for health related telugu based websit
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
--->Project Link* - https://sur-3071.github.io/Medical-Help/index.html
+-->Project Link* - https://yellow-mushroom-0b1c1e000.3.azurestaticapps.net
 
 -->Project demo video link* -https://youtu.be/rJ8RkRZ_GAc
 
@@ -27,19 +27,25 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
-![screen1](https://github.com/Sur-3071/Medical-Help/assets/104709090/62d7ce01-f63b-4520-9d20-3ff0956d9411)
+![Screenshot (125)](https://github.com/Sur-3071/Medical-Help/assets/104709090/385c8b28-91c6-4e62-a519-d7b4278c38ac)
+
 
    
 
 ### About -
 
-![screen3](https://github.com/Sur-3071/Medical-Help/assets/104709090/bf10ec2f-d188-47f6-a1d3-3155bf2d4540)
+![Screenshot (126)](https://github.com/Sur-3071/Medical-Help/assets/104709090/296c68f3-de80-468b-8bec-959f889a3110)
 
 
 
 ### health bot -
 
 ![screen2](https://github.com/Sur-3071/Medical-Help/assets/104709090/6e30a554-c8ee-4102-8ed2-e5609f0e277d)
+
+### azure Static Web app-
+
+![Screenshot (124)](https://github.com/Sur-3071/Medical-Help/assets/104709090/b048f01f-5484-493b-bf42-3aa72def8ca2)
+
 
 ## Tech Stack 💻
 
