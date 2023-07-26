@@ -6,7 +6,8 @@ This is a web based application developed for health related telugu based websit
 
 
 -->Project Link* - https://sur-3071.github.io/Medical-Help/index.html
--->Project demo video link* -https://youtu.be/R2NjtuMFeRg
+
+-->Project demo video link* -https://youtu.be/rJ8RkRZ_GAc
 
 ##Azure Technologies Used for Project*
 
