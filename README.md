@@ -7,7 +7,7 @@ This is a web based application developed for health related telugu based websit
 
 -->Project Link* - https://yellow-mushroom-0b1c1e000.3.azurestaticapps.net
 
--->Project demo video link* -https://youtu.be/rJ8RkRZ_GAc
+-->Project demo video link* -https://youtu.be/D4yk-_kl9ac
 
 ##Azure Technologies Used for Project*
 
@@ -39,12 +39,12 @@ This is a web based application developed for health related telugu based websit
 
 
 ### health bot -
+![Screenshot (129)](https://github.com/Sur-3071/Medical-Help/assets/104709090/d99d2945-d37c-4ac9-be6b-ee9f9cf4d93e)
 
-![screen2](https://github.com/Sur-3071/Medical-Help/assets/104709090/6e30a554-c8ee-4102-8ed2-e5609f0e277d)
 
 ### azure Static Web app-
 
-![Screenshot (124)](https://github.com/Sur-3071/Medical-Help/assets/104709090/b048f01f-5484-493b-bf42-3aa72def8ca2)
+![Screenshot (124)](https://github.com/Sur-3071/Medical-Help/assets/104709090/29a9d789-ed81-49df-aff6-a2ae76c7eccb)
 
 
 ## Tech Stack 💻
